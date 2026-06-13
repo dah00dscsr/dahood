@@ -122,20 +122,20 @@ Beyond simple locking, our **da hood aim script** adds a professional layer of p
 | Module | Description |
 |---|---|
 | **Da Hood Script ESP** | Wallhack overlay showing player positions through terrain |
-| **Da Hood Script Speed ** | Configurable movement-speed multiplier |
+| **Da Hood Script Speed** | Configurable movement-speed multiplier |
 | **Da Hood Script Fly** | No-clip flight mode for exploration and escapes |
 | **Da Hood Script Infinite Ammo** | Removes reload requirements in supported game modes |
-| **Da Hood Script Auto Rob ** | Automates cash-register and store-rob sequences |
-| **Da Hood Script Kill Aura ** | Area-of-effect damage zone around your character |
+| **Da Hood Script Auto Rob** | Automates cash-register and store-rob sequences |
+| **Da Hood Script Kill Aura** | Area-of-effect damage zone around your character |
 | **Da Hood Script Teleport** | Instant map-point teleportation via GUI coordinates |
 | **Da Hood Script No-Clip** | Phase through walls and solid objects |
 | **Da Hood Script God Mode** | Near-invincibility with configurable damage reduction |
-| **Da Hood Script Silent Aim ** | Hit-registration correction for off-screen targets |
-| **Da Hood Script Spin ** | Rapid character rotation for hard-to-hit dodge mechanics |
-| **Da Hood Script Noclip ** | Alternative no-clip implementation with smoother transition |
-| **Da Hood Script Kick ** | Server-side kick tool for custom server admins |
-| **Da Hood Script Money ** | In-game economy automation helper |
-| **Da Hood Script Lag ** | Controlled network-lag simulation (testing servers only) |
+| **Da Hood Script Silent Aim** | Hit-registration correction for off-screen targets |
+| **Da Hood Script Spin** | Rapid character rotation for hard-to-hit dodge mechanics |
+| **Da Hood Script Noclip** | Alternative no-clip implementation with smoother transition |
+| **Da Hood Script Kick** | Server-side kick tool for custom server admins |
+| **Da Hood Script Money** | In-game economy automation helper |
+| **Da Hood Script Lag** | Controlled network-lag simulation (testing servers only) |
 
 Every module is built with **full modularity** — enable or disable any feature through the script's GUI menu without reloading. 😊
 
